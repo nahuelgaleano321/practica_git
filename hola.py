@@ -18,3 +18,4 @@ for elemento in lista:
 
 
 print("falta ivan")
+print("falta ivan")
