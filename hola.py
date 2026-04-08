@@ -15,3 +15,6 @@ lista = ["nahuel" , "lucas" ,"maria" ,"juansito"]
 
 for elemento in lista:
     print(elemento)
+
+
+print("falta ivan")
